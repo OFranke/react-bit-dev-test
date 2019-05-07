@@ -1,0 +1,8 @@
+{
+    "env": {
+        "compiler": "bit.envs/bundlers/webpack@0.0.13",
+        "tester": "bit.envs/testers/jest@0.0.35"
+    },
+    "componentsDefaultDirectory": "components/{name}",
+    "packageManager": "npm"
+}
